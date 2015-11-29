@@ -9,8 +9,12 @@ Lista dos melhores cursos gratuitos online de Python
 
 * Canal [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
   * <https://www.youtube.com/watch?v=j94IGZmwtYI>
+
 * Canal [prof. Ronaldo Ramos, do IFET-CE] - "Lógica de Programação Usando Python - Curso Completo"
   * <https://www.youtube.com/playlist?list=PL51430F6C54953B73>
+
+* Canal [Bóson Treinamentos] - "Python - Programação"
+  * <https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2>
 
 ### Sites
 
@@ -23,3 +27,6 @@ Lista dos melhores cursos gratuitos online de Python
 * [Desenvolvimento web com Python e web2py!](https://dl.dropboxusercontent.com/u/830444/apostila_web2py_basico.pdf) (PDF)
 * [Python Orientado a Objetos](http://www.dcc.ufrj.br/~fabiom/mab225/pythonoo.pdf) (PDF)
 * [Python para Desenvolvedores](http://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
+
+### Desafios de programação com Python
+* [https://www.urionlinejudge.com.br] - "Problems e Contests" - Site em português
