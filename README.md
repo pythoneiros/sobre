@@ -4,9 +4,11 @@ Lista dos melhores cursos gratuitos online de Python
 
 ### Youtube
 
+* Canal [Python para Zumbie](https://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA)
+  * <https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc>
+
 * Canal [eXcript](https://www.youtube.com/channel/UCRu4BNG9k_BRUu-aCYJsgHg)
   * <https://www.youtube.com/watch?v=j94IGZmwtYI>
-
 
 ### Sites
 
