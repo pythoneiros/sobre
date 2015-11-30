@@ -23,6 +23,9 @@ Lista dos melhores cursos gratuitos online de Python
   
 * Canal [Ignorancia_Zero] - "O mais completo curso de Python no Youtube"
   * <https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe>
+
+* Canal [Sendex] - "Python Programming tutorials, going further than just the basics."
+  * <https://www.youtube.com/user/sentdex>
   
 
 ### Sites
@@ -39,3 +42,12 @@ Lista dos melhores cursos gratuitos online de Python
 
 ### Desafios de programação com Python
 * [https://www.urionlinejudge.com.br] - "Problems e Contests" - Site em português
+
+### Livros
+
+* [Introdução à Programação com Python – 2ª Edição] -  Nilo Ney Coutinho Menezes - Algoritmos e lógica de programação para iniciantes
+ * <http://www.novatec.com.br/livros/introducao-python-2ed/>
+
+
+* [Python para Desenvolvedores] -  Luiz Eduardo Borges 
+ * <http://www.novatec.com.br/livros/pythondesenvolvedores/>
