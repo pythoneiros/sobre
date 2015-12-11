@@ -38,5 +38,5 @@ Lista dos melhores cursos gratuitos online de Python
 * [Como Pensar como um Cientista da Computação](https://panda.ime.usp.br/pensepy/static/pensepy/) (html)
 * [Learn Python the HardWay](http://learnpythonthehardway.org/book/) (html)
 
-### Outros Cursos uteis
+### Outros cursos úteis
 * [Cursos GIT e GITHUB](https://github.com/pythoneiros/cursos/blob/master/git.md)
