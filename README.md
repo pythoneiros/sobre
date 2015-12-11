@@ -29,6 +29,9 @@ Lista dos melhores cursos gratuitos online de Python
 * [O tutorial de Python - Turing.com.br](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Aprendendo Python - Eric Hideki](https://ericstk.wordpress.com/)
 * [Python Club - Comunidade](http://pythonclub.com.br/)
+* GIT
+  * [Git - Guia prático] (http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+  * [Boas práticas de messagem de commit] (http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
 
 ### Apostilas
 
