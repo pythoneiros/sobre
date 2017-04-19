@@ -86,21 +86,21 @@ https://www.coursera.org/learn/python-programming-introduction
 8. Data Analysis and Interpretation Specialization (Wesleyan University)
 https://www.coursera.org/specializations/data-analysis
 
-Os cursos da especialização são:
+## Os cursos da especialização são:
 
-1Data Management and Visualization
+1. Data Management and Visualization
 https://pt.coursera.org/learn/data-visualization
 
-2Data Analysis Tools
+2. Data Analysis Tools
 https://pt.coursera.org/learn/data-analysis-tools
 
-3Regression Modeling in Practice
+3. Regression Modeling in Practice
 https://pt.coursera.org/learn/regression-modeling-practice
 
-4Machine Learning for Data Analysis
+4. Machine Learning for Data Analysis
 https://pt.coursera.org/learn/machine-learning-data-analysis
 
-5Data Analysis and Interpretation Capstone
+5. Data Analysis and Interpretation Capstone
 https://pt.coursera.org/learn/data-analysis-capstone
 
 9. Introduction to Computer Science and Programming Using Python (MIT)
