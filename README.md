@@ -51,3 +51,94 @@ Lista dos melhores cursos gratuitos online de Python
 
 * [Python para Desenvolvedores] -  Luiz Eduardo Borges 
  * <http://www.novatec.com.br/livros/pythondesenvolvedores/>
+
+### CURSOS
+
+Lista com 21 cursos gratuitos de Python para iniciantes.
+
+Português:
+
+1. Introdução à Ciência da Computação com Python Parte 1 (USP)
+https://www.coursera.org/learn/ciencia-computacao-python-conceitos
+
+2. Python Fundamentos para Análise de Dados
+http://www.datascienceacademy.com.br/pages/curso-python-fundamentos-para-analise-de-dados
+
+3. Python Básico
+https://solyd.com.br/treinamentos/python-basico
+
+4. Aulas Python 
+https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe
+
+5. Python para Zumbis 
+https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc
+
+6. Curso Python 300
+https://www.youtube.com/playlist?list=PL8eBmR3QtPL0j3QLEjQ6rcx8rVB8Ir893
+
+Inglês:
+
+7. Python Programming: A Concise Introduction (Wesleyan University)
+https://www.coursera.org/learn/python-programming-introduction
+
+*O próximo item é uma especialização composta por 4 cursos + 1 projeto. Pode se aprender Python ou SAS.
+
+8. Data Analysis and Interpretation Specialization (Wesleyan University)
+https://www.coursera.org/specializations/data-analysis
+
+Os cursos da especialização são:
+
+1Data Management and Visualization
+https://pt.coursera.org/learn/data-visualization
+
+2Data Analysis Tools
+https://pt.coursera.org/learn/data-analysis-tools
+
+3Regression Modeling in Practice
+https://pt.coursera.org/learn/regression-modeling-practice
+
+4Machine Learning for Data Analysis
+https://pt.coursera.org/learn/machine-learning-data-analysis
+
+5Data Analysis and Interpretation Capstone
+https://pt.coursera.org/learn/data-analysis-capstone
+
+9. Introduction to Computer Science and Programming Using Python (MIT)
+https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9
+
+10. Using Python for Research (Harvard)
+https://www.edx.org/course/using-python-research-harvardx-ph526x
+
+11. Intro to Python for Data Science
+https://www.datacamp.com/courses/intro-to-python-for-data-science
+
+12. Introduction To Python Programming
+https://www.udemy.com/pythonforbeginnersintro/
+
+13. Learn Python: Python for Beginners
+https://www.udemy.com/learn-python/
+
+14. Python for Beginners with Examples
+https://www.udemy.com/ardit-sulce-python-for-beginners/
+
+15. Python for Absolute Beginners
+https://www.udemy.com/python-for-absolute-beginners-u/
+
+16. Learn Python, it's CAKE (Beginners)
+https://www.udemy.com/learning-python-not-the-snake/
+
+17. Deep Learning Prerequisites: The Numpy Stack in Python
+https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/
+
+18. Start Programming Today with Python!
+https://www.udemy.com/free-python/
+
+19. Making Graphs in Python using Matplotlib for Beginners
+https://www.udemy.com/making-graphs-in-python-using-matplotlib-for-beginners/
+
+20. Python Object Oriented Full Guide
+https://www.udemy.com/python-object-oriented-from-scratch/
+
+21. Google's Python Class
+https://developers.google.com/edu/python/
+
