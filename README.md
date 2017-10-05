@@ -1,5 +1,5 @@
 # Sobre o Projeto
-Somos apenas alguns geeks que querem dedicar suas horas livres e alguns litros de café para aprender esta incrivel linguagem, que vem ganhando cada vez mais o mercado de tecnologia.
+Somos apenas alguns geeks que querem dedicar suas horas livres e alguns litros de café para aprender esta incrível linguagem, que vem ganhando cada vez mais o mercado de tecnologia.
 <http://pythoneiros.github.io/>
 
 ## Cursos e Tutoriais de Python
