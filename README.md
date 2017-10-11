@@ -44,9 +44,12 @@ Lista dos melhores cursos gratuitos online de Python
 * [https://www.urionlinejudge.com.br] - "Problems e Contests" - Site em português
 
 ### Livros
+* [Pense em Python] - Se você quer aprender como programar, usar Python é uma ótima forma de começar. Este guia prático apresenta a linguagem passo a passo, começando com conceitos de programação básicos antes de chegar a funções, recursividade, estruturas de dados e design orientado a objeto. Esta edição e seu código de apoio foram atualizados para o Python 3. - versão em papel link: <https://novatec.com.br/livros/pense-em-python/> 
+                    - Esta versão digital de Pense em Python em português foi gerada por Luciano Ramalho da ThoughtWorks a partir de arquivos cedidos por Rubens Prates da Editora Novatec. - versão online https://penseallen.github.io/PensePython2e/
 
-* [Introdução à Programação com Python – 2ª Edição] -  Nilo Ney Coutinho Menezes - Algoritmos e lógica de programação para iniciantes
- * <http://www.novatec.com.br/livros/introducao-python-2ed/>
+* [Introdução à Programação com Python – 2ª Edição] -  Nilo Ney Coutinho Menezes - Algoritmos e lógica de programação para iniciantes.
+
+* <http://www.novatec.com.br/livros/introducao-python-2ed/>
 
 
 * [Python para Desenvolvedores] -  Luiz Eduardo Borges 
