@@ -49,11 +49,7 @@ Lista dos melhores cursos gratuitos online de Python
 
 * [Introdução à Programação com Python – 2ª Edição] -  Nilo Ney Coutinho Menezes - Algoritmos e lógica de programação para iniciantes.
 
-* <http://www.novatec.com.br/livros/introducao-python-2ed/>
-
-
-* [Python para Desenvolvedores] -  Luiz Eduardo Borges 
- * <http://www.novatec.com.br/livros/pythondesenvolvedores/>
+* [Python para Desenvolvedores] -  Luiz Eduardo Borges - link:<http://www.novatec.com.br/livros/pythondesenvolvedores/>
 
 ### CURSOS
 
