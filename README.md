@@ -53,6 +53,10 @@ Lista dos melhores cursos gratuitos online de Python
 
 * [Python para Desenvolvedores] -  Luiz Eduardo Borges - link:<http://www.novatec.com.br/livros/pythondesenvolvedores/>
 
+* [TDD com Python - Siga o bode dos testes: usando Django, Selenium e JavaScript] - Harry J.W. Percival - em inglês
+
+* [TDD for Python] - Harry J.W. Percival - em inglês e online free - https://www.obeythetestinggoat.com/book/praise.harry.html ou https://github.com/hjwp/Book-TDD-Web-Dev-Python/
+
 ### CURSOS
 
 Lista com 21 cursos gratuitos de Python para iniciantes.
